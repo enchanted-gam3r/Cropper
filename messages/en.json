@@ -13,18 +13,33 @@
     "title": "Helper for Indian Farmers",
     "subtitle": "Your comprehensive agricultural support platform",
     "tagline": "Empowering farmers with AI-powered assistance and real-time information",
+    "quickLinks": {
+      "title": "Quick Access",
+      "subtitle": "Get started with our most popular features",
+      "marketPrices": "Check Crop Prices",
+      "weather": "Weather Forecast",
+      "schemes": "Government Schemes",
+      "chatbot": "Ask Expert",
+      "action": "Learn More",
+      "chatbotAction": "Start Chatting"
+    },
+    "features": {
+      "title": "Why Choose Cropper?",
+      "subtitle": "Designed specifically for Indian farmers",
+      "expertAdvice": "Expert Agricultural Advice",
+      "expertAdviceDesc": "Get AI-powered guidance on crop management, pest control, and farming best practices",
+      "multilingual": "Multilingual Support",
+      "multilingualDesc": "Available in both English and Hindi to serve farmers across India",
+      "trusted": "Trusted Information",
+      "trustedDesc": "Reliable data from government sources and verified agricultural experts"
+    },
     "chatbot": {
       "title": "Ask me anything about farming",
+      "subtitle": "AI Farming Assistant",
       "placeholder": "Type your question here...",
       "recording": "Listening... Click to stop",
       "speak": "Click to speak",
       "language": "Language"
-    },
-    "quickLinks": {
-      "marketPrices": "Check Crop Prices",
-      "weather": "Weather Forecast",
-      "schemes": "Government Schemes",
-      "chatbot": "Ask Expert"
     }
   },
   "marketPrices": {
