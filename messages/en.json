@@ -1,0 +1,112 @@
+{
+  "navigation": {
+    "home": "Home",
+    "marketPrices": "Market Prices",
+    "weather": "Weather",
+    "schemes": "Schemes",
+    "help": "Help",
+    "about": "About Us",
+    "contact": "Contact",
+    "policy": "Policy"
+  },
+  "home": {
+    "title": "Helper for Indian Farmers",
+    "subtitle": "Your comprehensive agricultural support platform",
+    "tagline": "Empowering farmers with AI-powered assistance and real-time information",
+    "chatbot": {
+      "title": "Ask me anything about farming",
+      "placeholder": "Type your question here...",
+      "recording": "Listening... Click to stop",
+      "speak": "Click to speak",
+      "language": "Language"
+    },
+    "quickLinks": {
+      "marketPrices": "Check Crop Prices",
+      "weather": "Weather Forecast",
+      "schemes": "Government Schemes",
+      "chatbot": "Ask Expert"
+    }
+  },
+  "marketPrices": {
+    "title": "Crop Market Prices",
+    "subtitle": "Daily prices from mandis across India",
+    "filters": {
+      "state": "Select State",
+      "district": "Select District",
+      "commodity": "Select Commodity",
+      "dateRange": "Date Range"
+    },
+    "priceTable": {
+      "commodity": "Commodity",
+      "market": "Market",
+      "minPrice": "Min Price",
+      "maxPrice": "Max Price",
+      "modalPrice": "Modal Price",
+      "change": "Change",
+      "lastUpdated": "Last Updated"
+    }
+  },
+  "weather": {
+    "title": "Weather & Agricultural Advisory",
+    "current": "Current Weather",
+    "forecast": "7-Day Forecast",
+    "advisory": "Agricultural Advisory",
+    "location": "Select Location",
+    "conditions": {
+      "temperature": "Temperature",
+      "humidity": "Humidity",
+      "windSpeed": "Wind Speed",
+      "rainfall": "Rainfall"
+    }
+  },
+  "schemes": {
+    "title": "Government Schemes for Farmers",
+    "subtitle": "Find and apply for agricultural schemes",
+    "categories": {
+      "financial": "Financial Assistance",
+      "insurance": "Crop Insurance",
+      "infrastructure": "Infrastructure Support",
+      "education": "Training & Education",
+      "sustainable": "Sustainable Agriculture",
+      "technology": "Technology Adoption"
+    },
+    "eligibility": "Check Eligibility",
+    "apply": "Apply Now",
+    "learnMore": "Learn More",
+    "deadline": "Application Deadline",
+    "benefits": "Benefits"
+  },
+  "chatbot": {
+    "greeting": "Hello! I'm here to help you with farming questions. What would you like to know?",
+    "suggestions": {
+      "pesticide": "How to treat common crop diseases?",
+      "fertilizer": "Which fertilizers should I use?",
+      "market": "Current market prices for my crops?",
+      "weather": "Weather forecast for farming?",
+      "scheme": "Available government schemes?"
+    },
+    "typing": "Assistant is typing...",
+    "error": "Sorry, I couldn't understand. Please try again."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All",
+    "none": "None"
+  },
+  "footer": {
+    "about": "About Us",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2024 Cropper Farmer Support. All rights reserved.",
+    "support": "Farmer Helpline: 1800-XXX-XXXX"
+  }
+}
